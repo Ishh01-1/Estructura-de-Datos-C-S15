@@ -1,0 +1,9 @@
+# Archivos de compilación de Visual Studio / MSVC
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.idb
+
+# Configuración local del editor
+.vscode/
